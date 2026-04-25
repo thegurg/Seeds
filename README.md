@@ -15,6 +15,13 @@
 - **Smart IP Detection:** Automatically identifies your correct local network address, skipping useless virtual or APIPA (169.254.x.x) IPs.
     
 
+## Showcase 
+<img width="1202" height="944" alt="image" src="https://github.com/user-attachments/assets/04029f76-005e-496c-a5dc-2e0b72a1cd4c" />
+
+### Another UI
+If you Hate Cyberpunk or purple you can use PIXEL ART edition
+https://github.com/thegurg/Seeds_2.git
+
 ---
 
 ## 📥 Installation & Setup
